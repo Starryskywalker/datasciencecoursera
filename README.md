@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-course projext
+course project
